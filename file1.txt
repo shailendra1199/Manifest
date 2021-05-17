@@ -1,1 +1,1 @@
-check git version
+check git version\n git version 2.30.1
